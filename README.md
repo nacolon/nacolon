@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m nacolon!
 
-<!--
-**nacolon/nacolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Beginner coder exploring cool stuff  
+- Learning GitHub, web development, and more  
+- Interested in nature, mythology, and building cool things  
+- Currently learning: HTML, CSS, Git and other staff
 
-Here are some ideas to get you started:
+## My Goals
+- Make my first project public
+- Learn how to build a personal website
+- Collaborate on a beginner-friendly repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting!
